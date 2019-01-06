@@ -3,4 +3,5 @@
 def countdown
   while
   end
+  "HAPPY NEW YEAR!"
 end
